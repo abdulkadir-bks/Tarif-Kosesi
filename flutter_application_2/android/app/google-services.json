@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535753950977",
+    "project_id": "tarif-kosesi",
+    "storage_bucket": "tarif-kosesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535753950977:android:a66dc2bdc01d9aee833d00",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtojJf58NFY0tMcIBmwLw_Vq_t7iS9fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
